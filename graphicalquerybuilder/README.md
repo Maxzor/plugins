@@ -16,7 +16,9 @@ It is aimed primarily at :
 # Features
 ### Create SQL queries graphically.
 
-[![](http://img.youtube.com/vi/6e66-fNhvAY/0.jpg)](http://www.youtube.com/watch?v=6e66-fNhvAY "")
+<img src="https://github.com/Maxzor/pgmodeler_plugins_media/blob/master/builder.gif" width="550" height="300" />
+
+Explanatory video : [peertube](https://tube.tux.ovh/videos/watch/0218cced-80aa-4097-bb97-45a1d9db5abd) `||` [youtube](https://www.youtube.com/watch?v=Zuefynmnvs0)
 
 This is the traditional feature set; you can insert tables, columns, relations in the builder ; group, sort them...
 
@@ -24,7 +26,9 @@ The plugin will then output the SQL, and allow you to save the code, or run it d
 
 ### Automatic-join mode.
 
-[![](http://img.youtube.com/vi/_5QNFXA03Y4/0.jpg)](http://www.youtube.com/watch?v=_5QNFXA03Y4 "")
+<img src="https://github.com/Maxzor/pgmodeler_plugins_media/blob/master/inference.gif" width="550" height="300" />
+
+Explanatory video : [peertube](https://tube.tux.ovh/videos/watch/ee0cba13-eeb0-49a1-bb8c-480c8567a254) `||` [youtube](https://www.youtube.com/watch?v=w-IFv8GgS1o)
 
 This is a primer in the FLOSS world!
 You get candidate join paths, ranked by score, for the items you inserted in the "SELECT" clause of the query.
